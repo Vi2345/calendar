@@ -1,0 +1,73 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+.calendar{
+    margin: auto;
+    width:50%;
+    height:50%;
+    font-family: sans-serif;
+    font-weight: bold;
+    box-sizing: border-box;
+    border: 2px solid;
+    text-align: center;
+    justify-content: center;
+}
+
+.month{
+    text-align: center;
+    background-color: white;
+    font-size: 20px;
+    letter-spacing: 1px;
+    color:black;
+    border: 2px solid;
+    border-collapse:collapse;
+    width:100%;
+    justify-content:center;
+}
+
+
+
+.table, th ,td{
+    width:50%;
+    height: 30%;
+    font-family: sans-serif;
+    font-size: 18px;
+    border-color: black;
+    text-align: center;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+.tr, th, td{
+    padding: 20px;
+    border: 2px solid black;
+}
+
+
+
+    
+
+
+
+
+
+
+.img {
+    width:250px;
+    height:180px;
+    padding:5px;
+    align-items: flex-end;
+}
+
+.images {
+    width :250px;
+    height:180px;
+    padding:5px;
+    align-items: flex-end;
+
+}
+
